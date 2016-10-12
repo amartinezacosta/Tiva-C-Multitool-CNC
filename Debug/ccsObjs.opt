@@ -1,0 +1,1 @@
+"./coolant.obj" "./dastlib.obj" "./gcode.obj" "./limits.obj" "./main.obj" "./motion.obj" "./planner.obj" "./print.obj" "./protocol.obj" "./report.obj" "./serial.obj" "./spindle.obj" "./stepper.obj" "./system.obj" "./tm4c123gh6pm_startup_ccs.obj" "./utils.obj" "C:/ti/TivaWare_C_Series-2.1.2.111/driverlib/ccs/Debug/driverlib.lib" "../tm4c123gh6pm.cmd" -l"libc.a" 
